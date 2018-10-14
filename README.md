@@ -1,5 +1,21 @@
 # You Don't Know JS (book series)
 
+---
+
+All chapters are available in `html` and `pdf` format for easy reading. You don't really have a excuse now to not know JS in and out.
+
+TODO:
+- [ ] Compile each chapter in one `html` and `pdf`
+- [ ] Compile the whole book in one `html` and `pdf`
+
+I have done the above two, for printing purpose (yes, I prefer hardcopy! ). But it's a manual process right now and I can't do it every time I update the repo. Will look into adding it to the pipeline.
+
+This repo will automatically udpate every Sunday whenever the master on the orignal repo has some udpates. 
+
+This fork is available at https://github.com/rajmayank/You-Dont-Know-JS
+
+---
+
 This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete.
 
 <a href="http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/"><img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
